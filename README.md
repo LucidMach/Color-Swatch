@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+<div align="center">
+    <img src="./public/logo.png" height="250px">
+    <h1>Color-Swatch</h1>
+</div>
+<br />
+<div align="center">
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+<br />
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+<br />
+[![forthebadge](https://forthebadge.com/images/badges/made-with-reason.svg)](https://forthebadge.com)
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ✒️ Overview
+
+The aim is to build the ultimate color combination generator tool
+
+## 🧐 Stuff Used To Build Color-Swatch
+
+1. 'reactjs'
+2. 'css-flexbox'
+
+## 🚀 How Does It Work
+
+1. It generates 3 random numbers between 0 and 255.
+2. Combines them and generates the `background` color.
+3. Finds the complementory color for the `foreground` color.
+4. Divides the rgb of the background to generate the `accent` color.
 
 ## Available Scripts
 
@@ -44,27 +69,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
