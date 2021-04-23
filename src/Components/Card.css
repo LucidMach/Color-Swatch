@@ -1,0 +1,20 @@
+.background {
+  min-width: 300px;
+  width: 60%;
+  margin: 1rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background: rgb(241, 241, 241); */
+}
+.accent {
+  margin: 1rem 0 0 0;
+  /* color: rgb(120, 195, 214); */
+  font-size: clamp(1rem, 2vw, 1.5rem);
+  text-decoration: none;
+}
+#logo {
+  width: 15vw;
+}

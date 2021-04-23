@@ -1,0 +1,25 @@
+.content {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.re {
+  color: #f1f1f1;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+}
+svg:hover {
+  cursor: pointer;
+}
+svg:active {
+  transform: scale(0.95);
+}
+.copy-control {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
