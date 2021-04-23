@@ -7,7 +7,11 @@ const Header = () => {
         <img src="/logo.png" height="48px" alt="logo" />
       </div>
       <div className="title">Color-Swatch</div>
-      <a href="http://github.com/LucidMach" target="_blank" rel="noreferrer">
+      <a
+        href="https://github.com/LucidMach/Color-Swatch"
+        target="_blank"
+        rel="noreferrer"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
