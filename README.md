@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./public/logo.png" height="250px">
-    <h1>Color-Swatch</h1>
+    <p>Color-Swatch</p>
 </div>
 <br />
 <div align="center">
