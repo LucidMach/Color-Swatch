@@ -1,5 +1,7 @@
 <div align="center">
+    <a href="https://colorswatch.netlify.app/">
     <img src="./public/logo.png" height="250px">
+    </a>
     <p>Color-Swatch</p>
 </div>
 <br />
